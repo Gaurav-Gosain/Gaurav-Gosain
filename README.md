@@ -1,13 +1,13 @@
-### Hi there 👋
+<div align="center"><h1>Hi there 👋</h1></div>
 
 <hr />
 
 <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-Gosain&theme=dracula&count_private=true&show_icons=true" style='width:60%'>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-Gosain&theme=onedark&count_private=true&show_icons=true" style='width:60%'>
         <hr style='width:80%' />
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Gaurav-Gosain&theme=dracula&count_private=true&show_icons=true" style='width:60%'>
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Gaurav-Gosain&theme=onedark&count_private=true&show_icons=true" style='width:60%'>
         <hr style='width:80%' />
-        <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Gosain&layout=compact&theme=dracula&count_private=true&show_icons=true" style='width:60%'>
+        <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Gosain&langs_count=8&theme=onedark&count_private=true&show_icons=true" style='width:60%'>
 </div>
     
 <!-- GitHub Stats -->
@@ -21,8 +21,6 @@
         </div>  
         
 </details>
-<br>
-
 
 <!--
 **Gaurav-Gosain/Gaurav-Gosain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
