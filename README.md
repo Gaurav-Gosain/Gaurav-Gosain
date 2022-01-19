@@ -1,6 +1,25 @@
 ### Hi there 👋
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=Gaurav-Gosain&count_private=true&show_icons=true&theme=radical)
+<hr />
+
+<div align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-Gosain&theme=dracula&count_private=true&show_icons=true">
+        <hr style='width:80%' />
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Gaurav-Gosain&theme=dracula&count_private=true&show_icons=true" style='width:80%'>
+        <hr style='width:80%' />
+        <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Gosain&layout=compact&theme=dracula&count_private=true&show_icons=true" style='width:80%'>
+</div>
+    
+<!-- GitHub Stats -->
+<details><summary>Visitors</summary>
+    <!-- Visitor Badge -->
+    <div align="center">
+      <img src="https://visitor-badge.glitch.me/badge?page_id=Gaurav-Gosain" style='width:20%' alt="Visitor Badge"/>
+    </div>  
+</details>
+<br>
+
+
 <!--
 **Gaurav-Gosain/Gaurav-Gosain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
