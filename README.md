@@ -1,7 +1,8 @@
 <div align="center"><h1>Hi there 👋</h1></div>
 
+<div align="center">
 ![Metrics](https://metrics.lecoq.io/Gaurav-Gosain?template=classic&stars=1&languages=1&isocalendar=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&config.timezone=Asia%2FDubai)
-
+</div>
 
 <div align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-Gosain&theme=onedark&count_private=true&show_icons=true" style='width:60%'>
