@@ -1,6 +1,8 @@
 <div align="center"><h1>Hi there 👋</h1></div>
 
 <div align="center">
+
+[![GitHub WidgetBox](https://gh-widgetbox.vercel.app/api/profile?username=Gaurav-Gosain&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
         
 <img src="https://metrics.lecoq.io/Gaurav-Gosain?template=classic&stars=1&languages=1&isocalendar=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&config.timezone=Asia%2FDubai" />
 
