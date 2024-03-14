@@ -17,7 +17,7 @@ Dynamic and ambitious Software Engineer with a First Class Bachelor of Science (
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Gosain&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /><br/><br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-Gosain&theme=tokyonight&hide_border=false" /><br/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Gosain&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical&hide=jupyter%20notebook" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Gosain&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical&hide=jupyter%20notebook&langs_count=10" />
 </div>
 
 ---
