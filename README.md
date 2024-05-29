@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Gosain</h1>
 
+Currently working on building a community at [GoUAE](https://github.com/GoUAE/) & [golang.ae](golang.ae) 
+
 # 💫 About Me:
 Dynamic and ambitious Software Engineer with a First Class Bachelor of Science (Honors) degree in<br>Computer Science, specializing in Artificial Intelligence and possessing expertise in Deep Learning, Computer<br>Vision, and Natural Language Processing. Eagerly pursuing a full-time position in the technology industry to<br>leverage my skills and knowledge in a challenging work environment. Gaurav is excited to apply his intuitive<br>problem-solving abilities and analytical mindset to efficiently tackle real-world challenges.
 
