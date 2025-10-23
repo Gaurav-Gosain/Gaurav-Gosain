@@ -9,6 +9,11 @@ Dynamic and ambitious Software Engineer with a First Class Bachelor of Science (
     <img src="https://github-widgetbox.vercel.app/api/profile?username=Gaurav-Gosain&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox">
 </div>
 
+## Buy Me A Coffee
+If you like what you see and the stuff I build is useful to you, Please do consider buying me a coffee!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B81N8V1R)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Gaurav-Gosain) 
 
